@@ -1,0 +1,9 @@
+jupyter-book
+matplotlib
+numpy
+scipy
+plotly
+seaborn
+numba
+tqdm
+pytest
